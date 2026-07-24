@@ -1,0 +1,9 @@
+# Network Port Scanner - Dependencies
+#
+# This project intentionally uses ONLY the Python 3 standard library.
+# No third-party packages are required.
+#
+# Standard library modules used:
+#   socket, threading, argparse, datetime, csv, ipaddress, queue, sys
+#
+# Requires: Python 3.7 or later
